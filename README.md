@@ -6,4 +6,10 @@ This project is used to perform a simple sentiment analysis for Tweets by using 
 ### Files     
 - IP.txt: indicates the IP address of the AWS server (currently terminated). If run it locally, it will be `localhost:5000`;    
 - server.py: implements methods: tweets(), add_color(), and following();  
-- tweetie.py: implements methods: authenticate(), fetch_tweets(), fetch_following(). 
+- tweetie.py: implements methods: authenticate(), fetch_tweets(), fetch_following().      
+
+### Results  
+![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_followers.jpg)
+![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_tweets.jpg)
+
+
