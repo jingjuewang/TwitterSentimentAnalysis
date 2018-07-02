@@ -9,7 +9,7 @@ This project is used to perform a simple sentiment analysis for Tweets by using 
 - tweetie.py: implements methods: authenticate(), fetch_tweets(), fetch_following().      
 
 ### Results  
-![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_followers.jpg){height: 100px;}
-![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_tweets.jpg)
+<img src="https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_followers.jpg" alt="drawing" width="200px"/>
+<img src="https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_tweets.jpg" alt="t" width="200px"/>
 
 
