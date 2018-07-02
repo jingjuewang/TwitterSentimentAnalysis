@@ -10,6 +10,6 @@ This project is used to perform a simple sentiment analysis for Tweets by using 
 
 ### Results  
 ![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_followers.jpg)
-![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_tweets.jpg| width=150)
+![alt text](https://github.com/jingjuewang/TwitterSentimentAnalysis/blob/master/screenshots/trump_tweets.jpg)
 
 
